@@ -1,0 +1,26 @@
+#parrafo1 {
+    color: red;    
+}
+
+#parrafo2 {
+    color: blue;    
+}
+
+#parrafo3 {
+    color: orange;
+}
+
+#pain {
+    color: green;
+}
+
+.parrafo {
+    /*color: green !important;*/
+    color: green;
+    border: 2px solid red;
+    text-align: center;
+}
+
+p {
+    color: burlywood;
+}

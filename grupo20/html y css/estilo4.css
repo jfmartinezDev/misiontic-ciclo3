@@ -1,0 +1,42 @@
+/*h1 + h4 {
+    color: red;
+}*/
+
+/*h1 ~ h4{
+    color: blue;
+}*/
+
+/*div h1 {
+    color: green;
+}*/
+
+/*.principal .parrafo{
+    color:blueviolet
+}
+
+p{
+    color: red;
+}
+a{
+    color: inherit;
+}
+p{
+    color: green;
+}
+p{
+    color: purple;
+}*/
+
+/*p {
+    color: red !important;
+    color: red;
+}
+
+.parrafo{
+    color: blue;
+}
+
+#p_principal {
+    color: yellow;
+}
+*/
