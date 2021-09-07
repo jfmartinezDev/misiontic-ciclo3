@@ -1,0 +1,58 @@
+#nombre {
+    color: red;
+    border: 3px solid black;
+}
+
+#parrafo2 {
+    background-color:chartreuse
+}
+
+/*p {
+    color: blue;
+}*/
+
+.estilo_jose{
+    color: purple
+}
+
+/*h3 + h4 {
+    color: red;
+}*/
+
+/*h1 ~ h3 {
+    color: green;
+}*/
+
+div h3 {
+    color: red;
+}
+
+#jesus {
+    background-color: black;
+}
+
+span {
+    color: red;
+}
+
+#mision{
+    color:purple
+}
+
+.tic{
+    color:brown
+}
+
+.nombres {
+    border: 1px solid black;
+}
+
+.nombres__item{
+    color:blue;
+    text-align: center;
+}
+
+.nombres__item-hover{
+    color:blue;
+    text-align: center;
+}
