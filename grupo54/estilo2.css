@@ -1,0 +1,27 @@
+#parrafo1 {
+    color: yellow;
+}
+
+#parrafo2 {
+    color: red;
+}
+
+.parrafo {
+    text-align: center;
+}
+
+h1 + p {
+    color: blueviolet
+}
+
+h1 ~ h3 {
+    color: green;
+}
+
+#hispanos .sur {
+    color: brown
+}
+
+div > h5 {
+    color:crimson
+}
