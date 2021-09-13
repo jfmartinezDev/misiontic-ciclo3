@@ -31,6 +31,14 @@ const app = Vue.createApp({
             }else{
                 this.nombreCompleto = this.nombre + value;
             }  
+        },
+        contador(value){
+            if (value>100){
+                const this2 = this;
+                setTimeout(function(){
+                    this2.contador = 0;
+                }, 2000);                
+            }
         }
     },
     methods: {

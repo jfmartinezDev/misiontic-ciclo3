@@ -9,15 +9,15 @@
   <body>
     <section id="variables">
         <p>el valor del contador es {{contador}}</p>
-        <button v-on:click="adicionar1">Incrementar 1</button>
-        <button v-on:click="disminuir1">Disminuir 1</button>
+        <button @click="adicionar1">Incrementar 1</button>
+        <button @click="disminuir1">Disminuir 1</button>
         <br>
-        <button v-on:click="adicionarN(10)">Incrementar 7</button>
+        <button @click="adicionarN(10)">Incrementar 10</button>
         <br><br>
         <input id="nombre" type="text" v-model="nombre">
         <input id="apellido" type="text" v-model="apellido">
         <p>{{nombreCompleto}}</p>
-        <button v-on:click="resetName">Resetear nombre</button>
+        <button @click="resetName">Resetear nombre</button>
         <br><br>        
     </section>
     <script src="https://unpkg.com/vue@next"></script>
